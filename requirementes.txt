@@ -1,0 +1,5 @@
+requests
+pandas
+google-cloud-bigquery
+functions-framework==3.*
+db-dtypes
